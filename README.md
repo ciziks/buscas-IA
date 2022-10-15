@@ -1,7 +1,7 @@
 # Problema de Busca - Super Mario Bros
-Trabalho da disciplina **SCC0230 - Inteligência Artificial**.
+Trabalho da disciplina **SCC0230 - Inteligência Artificial** administrada por Solange Oliveira Rezende.
 
-Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas
+Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas em contexto de Inteligência Artificial.
 
 ## Membros
 
