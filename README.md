@@ -9,7 +9,7 @@ Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas 
 
 * Arthur Santorum Lorenzetto - arts.lorenzetto@usp.br -
 
-* Eduardo Zaffari Monteiro - eduardozaffarimonteiro@usp.br - 
+* Eduardo Zaffari Monteiro - eduardozaffarimonteiro@usp.br - 12559490
 
 * Gustavo Silva de Oliveira - gustavo.oliveira03@usp.br - (Vice-Líder)
 
