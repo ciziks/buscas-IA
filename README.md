@@ -15,7 +15,7 @@ Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas 
 
 * Lucas Ivars Cadima Ciziks - luciziks@usp.br - 125599472 (Líder)
 
-* Pedro Henrique de Freitas Maçonetto - pedromaconetto@usp.br - 
+* Pedro Henrique de Freitas Maçonetto - pedromaconetto@usp.br - 12675419
 
 * Vitor Okubo Ianella - vitorok.03@gmail.com - 
 
