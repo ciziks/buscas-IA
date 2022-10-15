@@ -5,7 +5,7 @@ Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas 
 
 ## Membros
 
-* Alexandre Eduardo de Souza Jesus - alexandre_souza@usp.br -
+* Alexandre Eduardo de Souza Jesus - alexandre_souza@usp.br - 12559506
 
 * Arthur Santorum Lorenzetto - arts.lorenzetto@usp.br -
 
