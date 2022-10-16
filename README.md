@@ -17,7 +17,7 @@ Projeto para implementação e comparação de Buscas Cegas e Buscas Informadas 
 
 * Pedro Henrique de Freitas Maçonetto - pedromaconetto@usp.br - 12675419
 
-* Vitor Okubo Ianella - vitorok.03@gmail.com - 
+* Vitor Okubo Ianella - vitorok.03@gmail.com - 12559451
 
 ## Introdução
 
